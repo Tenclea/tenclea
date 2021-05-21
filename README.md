@@ -1,9 +1,9 @@
 ## 👋 Hey, I'm Tenclea :)
 
 <!-- [![GitHub Website](https://img.shields.io/website?down_color=FC0000&down_message=Offline (for now)&label=tenclea.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Ftenclea.github.io)](https://tenclea.github.io) -->
-[![GitHub stars](https://img.shields.io/github/stars/tenclea)](https://github.com/tenclea)
 [![GitHub Follow](https://img.shields.io/github/followers/Tenclea?color=7B16FF&label=GitHub%20Followers&logo=github&logoColor=7B16FF)](https://github.com/Tenclea?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=tenclea)](https://github.com/tenclea)
+[![GitHub stars](https://img.shields.io/github/stars/tenclea)](https://github.com/tenclea)
 <!-- [![Telegram Channel](https://img.shields.io/badge/Tenclea%20Channel-Join-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Tenclea_Channel) -->
 
 ## ℹ️ I'm 17 and from France
