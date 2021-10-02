@@ -12,10 +12,6 @@
 - 🔄 I'm looking forward to learn many more languages, and make usefull things with them
 - 🎯 2021 Goals: contribute more to Open Source projects
 
-<!-- ### Spotify Playing 🎧 -->
-
-<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
-
 ### 🌐 My Social Links:
 
 [<img align="left" alt="GitHub Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][GitWeb]
@@ -39,7 +35,8 @@
 
 ### 🏆 GitHub Statistics
 
-<img align="left" alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&show_icons=true&hide_title=false&title_color=FFFFFFa&text_color=FFFFFF&bg_color=110,000000,000000&icon_color=28ce60&include_all_commits=true&hide_border=true" />
+<img align="left" alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark" />
+<img align="left" alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true" />
 
 [GitWeb]: https://tenclea.github.io
 [Discord]: https://discord.com/users/352520278103949312
