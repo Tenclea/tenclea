@@ -37,6 +37,7 @@
 
 <img align="left" alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark" />
 <img align="left" alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true" />
+<img align="left" alt="Tenclea GitHub Stats" src="gitartwork.svg" />
 
 [GitWeb]: https://tenclea.github.io
 [Discord]: https://discord.com/users/352520278103949312
