@@ -8,9 +8,9 @@
 
 ## ℹ️ I'm 18 and from France
 
-- ⌨️ I like to learn new things, especially when it comes to computers
-- 🔄 I'm looking forward to learn many more languages, and make usefull things with them
-- 🎯 2021 Goals: contribute more to Open Source projects
+- ⌨️ I really enjoy learning new stuff, especially when it comes to computers
+- 🔄 I'm looking forward to learn many more languages, and make some useful things with them
+- 🎯 2022 Goals: contribute more to Open Source projects
 <br />
 
 ### 💻 Tools & Languages:
