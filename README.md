@@ -6,19 +6,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/tenclea)](https://github.com/tenclea)
 <!-- [![Telegram Channel](https://img.shields.io/badge/Tenclea%20Channel-Join-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Tenclea_Channel) -->
 
-## ℹ️ I'm 17 and from France
+## ℹ️ I'm 18 and from France
 
 - ⌨️ I like to learn new things, especially when it comes to computers
 - 🔄 I'm looking forward to learn many more languages, and make usefull things with them
 - 🎯 2021 Goals: contribute more to Open Source projects
-
-### 🌐 My Social Links:
-
-[<img align="left" alt="GitHub Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][GitWeb]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][Email]
-
 <br />
 
 ### 💻 Tools & Languages:
@@ -39,10 +31,6 @@
 <img align="left" alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true" />
 <img align="left" alt="Tenclea GitHub Stats" src="gitartwork.svg" />
 
-[GitWeb]: https://tenclea.github.io
-[Discord]: https://discord.com/users/352520278103949312
-[Telegram]: https://t.me/Tenclea
-[Email]: mailto://tenclea@protonmail.com
 [GitHub]: https://github.com
 [VSCode]: https://code.visualstudio.com
 [JS]: https://www.javascript.com
