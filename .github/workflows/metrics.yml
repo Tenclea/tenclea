@@ -11,3 +11,12 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          optimize: css, xml
+          
+          retries: 5
+          retries_delay: 600
+                    
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
+          
