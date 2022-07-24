@@ -14,8 +14,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
                     
-          filename: assets/github-metrics.*
+          commits_authoring: Tenclea
           config_timezone: Europe/Paris
+          filename: assets/github-metrics.*
           optimize: css, xml
           
           retries: 5
