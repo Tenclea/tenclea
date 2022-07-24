@@ -57,3 +57,8 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_days: 30
           plugin_habits_charts: yes
+          
+          # Displays the ratio of open/closed issues and open/merged pull requests across GitHub
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories, user
