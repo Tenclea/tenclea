@@ -52,6 +52,7 @@ jobs:
           
           # Displays a list of pinned repositories
           plugin_repositories: yes
+          plugin_repositories_pinned: 6
           
           # Displays commit calendar across several years
           # plugin_calendar: yes
