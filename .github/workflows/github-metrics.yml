@@ -26,6 +26,7 @@ jobs:
           
           template: classic
           base: header, repositories
+          base_hireable: yes
           
           # Displays nb of added/removed lines of code
           plugin_lines: yes
