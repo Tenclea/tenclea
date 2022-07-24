@@ -1,37 +1,15 @@
-## 👋 Hey, I'm Tenclea :)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&lines=Hi+there+!+%3AD;I'm+Tenclea;Welcome+to+my+profile+!;I'm+a+tech+enthusiast+from+France;and+I'm+always+learning+new+things+!)](https://git.io/typing-svg)
 
-<!-- [![GitHub Website](https://img.shields.io/website?down_color=FC0000&down_message=Offline (for now)&label=tenclea.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Ftenclea.github.io)](https://tenclea.github.io) -->
-[![GitHub Follow](https://img.shields.io/github/followers/Tenclea?color=7B16FF&label=GitHub%20Followers&logo=github&logoColor=7B16FF)](https://github.com/Tenclea?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=tenclea)](https://github.com/tenclea)
-[![GitHub stars](https://img.shields.io/github/stars/tenclea)](https://github.com/tenclea)
-<!-- [![Telegram Channel](https://img.shields.io/badge/Tenclea%20Channel-Join-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Tenclea_Channel) -->
+<!-- Badges -->
+[![GitHub Follow](https://img.shields.io/github/followers/Tenclea?color=blue&label=GitHub%20Followers&logo=github&logoColor=black)](https://github.com/Tenclea?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=tenclea)](https://github.com/Tenclea)
+[![GitHub stars](https://img.shields.io/github/stars/tenclea)](https://github.com/Tenclea)
 
-## ℹ️ I'm 18 and from France
+<!-- Trophies -->
+<img alt="Tenclea GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Tenclea&rank=-SECRET,-C&row=1&margin-w=10&theme=discord&no-frame=true"/>
 
-- ⌨️ I really enjoy learning new stuff, especially when it comes to computers
-- 🔄 I'm looking forward to learn many more languages, and make some useful things with them
-- 🎯 2022 Goals: contribute more to Open Source projects
-<br />
-
-### 💻 Tools & Languages:
-
-[<img align="left" alt="GitHub" width="26px" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/github-512.png" />][GitHub]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
-
-<br />
-<br />
-
----
-
-### 🏆 GitHub Statistics
-
-<img align="left" alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark" />
-<img align="left" alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true" />
-<img align="left" alt="Tenclea GitHub Stats" src="gitartwork.svg" />
-
-[GitHub]: https://github.com
-[VSCode]: https://code.visualstudio.com
-[JS]: https://www.javascript.com
-[NodeJS]: https://nodejs.org
+<!-- Stats -->
+<div class="container">
+<img alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark"/>
+<img alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true"/>
+</div>
