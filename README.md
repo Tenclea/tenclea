@@ -13,3 +13,7 @@
 <img alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark"/>
 <img alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true"/>
 </div>
+
+<!-- Metrics -->
+## My GitHub Metrics ✨
+<img src="assets/github-metrics.svg" alt="Metrics" width="100%">
