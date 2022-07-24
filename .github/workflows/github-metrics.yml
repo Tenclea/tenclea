@@ -50,8 +50,8 @@ jobs:
           plugin_repositories: yes
           
           # Displays commit calendar across several years
-          plugin_calendar: yes
-          plugin_calendar_limit: 11
+          # plugin_calendar: yes
+          # plugin_calendar_limit: 11
           
           # Displays coding habits based on recent activity
           plugin_habits: yes
