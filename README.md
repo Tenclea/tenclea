@@ -6,15 +6,15 @@
 [![GitHub stars](https://img.shields.io/github/stars/tenclea)](https://github.com/Tenclea)
 
 <!-- Trophies -->
-<img alt="Tenclea GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Tenclea&rank=-SECRET,-C&row=1&margin-w=10&theme=discord&no-frame=true"/>
+<img alt="Tenclea GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Tenclea&rank=-SECRET,-C&row=1&margin-w=10&theme=discord&no-frame=true">
 
 <!-- Stats -->
 <p>
-<img align="center" alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark"/>
+<img align="center" alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark" width="75%">
 <br/>
-<img align="center" alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true"/>
+<img align="center" alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true" width="75%">
 </p>
 
 <!-- Metrics -->
 <h2> My GitHub Metrics ✨ <h2/>
-<img src="assets/github-metrics.svg" alt="Metrics" width="50%">
+<img src="assets/github-metrics.svg" alt="Metrics" width="75%">
