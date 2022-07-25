@@ -9,11 +9,12 @@
 <img alt="Tenclea GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Tenclea&rank=-SECRET,-C&row=1&margin-w=10&theme=discord&no-frame=true"/>
 
 <!-- Stats -->
-<div class="container">
-<img alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark"/>
-<img alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true"/>
-</div>
+<p>
+<img align="center" alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark"/>
+<br/>
+<img align="center" alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true"/>
+</p>
 
 <!-- Metrics -->
-## My GitHub Metrics ✨
-<img src="assets/github-metrics.svg" alt="Metrics" width="100%">
+<h2> My GitHub Metrics ✨ <h2/>
+<img src="assets/github-metrics.svg" alt="Metrics" width="50%">
