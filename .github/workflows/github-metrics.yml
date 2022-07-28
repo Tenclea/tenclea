@@ -44,7 +44,7 @@ jobs:
           
           # Displays recently starred repositories
           plugin_stars: yes
-          plugin_stars_limit: 3
+          plugin_stars_limit: 4
           
           # Displays stargazers evolution over the last two weeks
           plugin_stargazers: yes
@@ -63,6 +63,7 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_days: 30
           plugin_habits_charts: yes
+          plugin_habits_facts: no
           
           # Displays the ratio of open/closed issues and open/merged pull requests across GitHub
           plugin_followup: yes
