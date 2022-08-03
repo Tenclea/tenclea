@@ -10,7 +10,7 @@
 
 <!-- Stats -->
 <p>
-<img align="center" alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark">
+<img align="center" alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&include_all_commits=true&show_icons=true&hide_border=true&hide_title=false&count_private=true&theme=dark&hide=prs,contribs">
 <br/>
 <img align="center" alt="Tenclea GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Tenclea&theme=dark&hide_border=true">
 </p>
@@ -20,4 +20,4 @@
 <img src="assets/github-metrics.svg" alt="Metrics" width="75%">
 
 
-Please leave a star on [my profile](https://github.com/Tenclea/Tenclea) if you liked it ! ❤
+Leave a star on [my profile](https://github.com/Tenclea/Tenclea) if you liked it ! ❤
