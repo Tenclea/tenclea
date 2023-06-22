@@ -3,7 +3,7 @@
 <!-- Badges -->
 [![GitHub Follow](https://img.shields.io/github/followers/Tenclea?color=blue&label=GitHub%20Followers&logo=github&logoColor=black)](https://github.com/Tenclea?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=tenclea)](https://github.com/Tenclea)
-[![GitHub stars](https://img.shields.io/github/stars/tenclea)](https://github.com/Tenclea)
+[![GitHub Stargazers](https://img.shields.io/github/stars/tenclea)](https://github.com/Tenclea)
 
 <!-- Trophies -->
 <img alt="Tenclea GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Tenclea&rank=-SECRET,-C&row=1&margin-w=10&theme=discord&no-frame=true">
