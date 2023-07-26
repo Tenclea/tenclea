@@ -14,8 +14,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
                     
-          commits_authoring: Tenclea, 62174952+Tenclea@users.noreply.github.com
-          committer_token: ${{ secrets.METRICS_TOKEN }}
+          # commits_authoring: Tenclea, 62174952+Tenclea@users.noreply.github.com
+          # committer_token: ${{ secrets.METRICS_TOKEN }}
           
           config_timezone: Europe/Paris
           filename: assets/github-metrics.*
