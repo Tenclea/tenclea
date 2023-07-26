@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&color=FFFFFF&lines=Hi+there+!+%3AD;I'm+Tenclea;Welcome+to+my+profile+!;I'm+a+tech+enthusiast+from+France;and+I+love+learning+new+things+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=500&color=FFFFFF&lines=Hi+there+!+%3AD;I'm+Tenclea;Welcome+to+my+profile+!;I'm+a+tech+enthusiast+from+France;and+I+love+learning+new+things+!;Enjoy+!)](https://git.io/typing-svg)
 
 <!-- Badges -->
 [![GitHub Follow](https://img.shields.io/github/followers/Tenclea?color=blue&label=GitHub%20Followers&logo=github&logoColor=black)](https://github.com/Tenclea?tab=followers)
