@@ -17,7 +17,7 @@
 
 <!-- Metrics -->
 <h2> My GitHub Metrics ✨ <h2/>
-<img src="assets/github-metrics.svg" alt="Metrics" width="75%">
+<img src="assets/github-metrics.svg" alt="Metrics" width="80%">
 
 
 Leave a star on [my profile](https://github.com/Tenclea/Tenclea) if you liked it ! ❤
